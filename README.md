@@ -15,10 +15,12 @@ Reproducible machine learning is generally defined as the ability to abstract yo
     <td width="50%">
         <h2>Reproducible Step</h2>
         <img src="images/mlstep2.png">
+        <p>Atomic step = Input + Code + Output</p>
     </td>
     <td width="50%">
         <h2>Reproducible Graph</h2>
         <img src="images/mltemp5.png">
+        <p>Computational graph = atomic steps + graph</p>
     </td>
   </tr>
 </table>
